@@ -7,7 +7,7 @@ permalink: /
 #notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Temasek Polytechnic Virtual Campus
+        title: Virtually The Place To Be
         subtitle: Your School from Home
         background: /images/download1.jpg
         #button: Contact Us
