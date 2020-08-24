@@ -8,7 +8,6 @@ logo: /images/isomer-logo.svg
 
 links:
   - title: Be with us
-    collection: be-with-us
     url: /be-with-us/
     sub-links:
     - title: Be Entertained
