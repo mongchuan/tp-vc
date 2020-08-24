@@ -7,11 +7,19 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: Be with us
+    collection: be-with-us
+    url: /be-with-us/
+    sub-links:
+    - title: Be Entertained
+      url: /be-entertained/
   - title: About
     url: /about/
   - title: The Campus
     collection: the-campus
-  - title: Media
-    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
+  
+  #- title: Media
+    #resource_room: true
+  
