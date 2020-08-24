@@ -17,7 +17,7 @@ locations:
       - days: Sat
         time: 8.30am - 12.00pm
   
-contacts:
+<h2>contacts:</h2>
   - title: Full-time Courses Admissions & Enrolment
     content:
     - phone: +65 6780 4201
