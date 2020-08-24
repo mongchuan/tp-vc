@@ -4,24 +4,24 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+#notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Temasek Polytechnic Virtual Campus
+        subtitle: Your School from Home
         background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        #button: Contact Us
+        #url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: LEAD Programmes
+              description: LEAD your lives with us
+              url: /
+            - title: Co-Curricular Activities
+              description: Glimpse of 140 over CCAs
+              url: https://www.tp.edu.sg/cca
+            - title: National Education Programmes
+              description: Lorem Ipsum
+              url: /
     - infobar:
         title: Infobar title
         subtitle: Subtitle
