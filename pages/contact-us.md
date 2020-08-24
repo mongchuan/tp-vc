@@ -26,9 +26,8 @@ contacts:
   - title: Careers
     content:
     - email: careers@abc.gov.sg
-  - title: Schools & Departments
-    - title: Full-time Courses Admissions & Enrolment
-      content:
-      - phone: +65 6780 4201
-      - email: admissions@tp.edu.sg
+  - title: Full-time Courses Admissions & Enrolment
+    content:
+    - phone: +65 6780 4201
+    - email: admissions@tp.edu.sg
 ---
