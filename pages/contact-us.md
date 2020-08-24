@@ -4,6 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Temasek Polytechnic
 notification: Do not go to school unless neccessary.
+---
 locations:
   - title: Corporate Contact Information
     address:
@@ -31,4 +32,4 @@ contacts:
     content:
     - phone: +65 6780 4201
     - email: admissions@tp.edu.sg
----
+
