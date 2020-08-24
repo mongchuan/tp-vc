@@ -7,13 +7,13 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Be with us
-    url: /be-with-us/
-    sub-links:
-    - title: Be Connected
-      url: /be-connected/
-    - title: Be Involved
-      url: /be-involved/
+#  title: Be with us
+#    url: /be-with-us/
+#    sub-links:
+#    - title: Be Connected
+#      url: /be-connected/
+#    - title: Be Involved
+#      url: /be-involved/->
   - title: About
     url: /about/
   - title: The Campus
