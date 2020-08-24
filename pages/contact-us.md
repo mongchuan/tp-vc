@@ -24,13 +24,42 @@ contacts:
     - phone: +65 6780 4201
     - email: admissions@tp.edu.sg
     #- other: Any text here <i>including HTML</i>
-  - title: Careers
+  - title: Full-time Courses Admissions & Enrolment
     content:
-    - email: careers@abc.gov.sg
+    - phone: +65 6780 4201
+    - email: admissions@tp.edu.sg
   
-
-
+  - title: Full-time Courses Admissions & Enrolment
+    content:
+    - phone: +65 6780 4201
+    - email: admissions@tp.edu.sg
+  - title: Full-time Courses Admissions & Enrolment
+    content:
+    - phone: +65 6780 4201
+    - email: admissions@tp.edu.sg
   
+  - title: Full-time Courses Admissions & Enrolment
+    content:
+    - phone: +65 6780 4201
+    - email: admissions@tp.edu.sg
+  - title: Full-time Courses Admissions & Enrolment
+    content:
+    - phone: +65 6780 4201
+    - email: admissions@tp.edu.sg
+  
+  - title: Full-time Courses Admissions & Enrolment
+    content:
+    - phone: +65 6780 4201
+    - email: admissions@tp.edu.sg
+  - title: Full-time Courses Admissions & Enrolment
+    content:
+    - phone: +65 6780 4201
+    - email: admissions@tp.edu.sg
+  
+  - title: Full-time Courses Admissions & Enrolment
+    content:
+    - phone: +65 6780 4201
+    - email: admissions@tp.edu.sg
   - title: Full-time Courses Admissions & Enrolment
     content:
     - phone: +65 6780 4201
