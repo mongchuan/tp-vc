@@ -26,8 +26,6 @@ contacts:
   - title: Careers
     content:
     - email: careers@abc.gov.sg
-
-contacts:
   - Schools & Departments: 
     - title: Full-time Courses Admissions & Enrolment
       content:
