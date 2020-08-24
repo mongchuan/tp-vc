@@ -38,7 +38,9 @@ contacts:
     - phone: +65 6788 2000
     - email: enquiry@tp.edu.sg
   
-  - other: <p></p>
+  - other: <p>
+  
+  </p>
 
   - title: School of Applied Science
     content:
