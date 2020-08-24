@@ -23,10 +23,10 @@ sections:
               description: Lorem Ipsum
               url: /
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
+        title: Co-Curricular Activities
+        subtitle: Stay up to date with
         description: About a sentence worth of description here
-        button: Button text
+        button: Click here for more
         url: /faq/
     - resources:
         title: Media
