@@ -22,8 +22,6 @@ colors:
 collections:
   the-campus:
     output: true
-  be-with-us:
-    output: true
 
 resources_name: media
 
