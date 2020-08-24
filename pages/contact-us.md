@@ -17,24 +17,8 @@ locations:
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
-    - title: Full-time Courses Admissions & Enrolment
-    content:
-    - phone: +65 6780 4201
-    - email: admissions@tp.edu.sg
-    #- other: Any text here <i>including HTML</i>
-  - title: Part-time & Short Courses Enquiries
-    content:
-    - phone: +65 6788 1212
-    - email: tsa@tp.edu.sg
-  
-  - title: Examination Matters
-    content:
-    - phone: +65 6788 2000
-    - email: examinations@tp.edu.sg
-  - title: General Enquiries
-    content:
-    - phone: +65 6788 2000
-    - email: enquiry@tp.edu.sg
+    - Full-time Courses Admissions & Enrolment
+    
   
   
 contacts:
