@@ -17,9 +17,7 @@ locations:
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
-  
-contacts:
-  - title: Full-time Courses Admissions & Enrolment
+    - title: Full-time Courses Admissions & Enrolment
     content:
     - phone: +65 6780 4201
     - email: admissions@tp.edu.sg
@@ -38,7 +36,9 @@ contacts:
     - phone: +65 6788 2000
     - email: enquiry@tp.edu.sg
   
-  - title: School of Applied Science
+  
+contacts:
+    - title: School of Applied Science
     content:
     - phone: +65 6780 5322
     - email: AScHotline@tp.edu.sg
