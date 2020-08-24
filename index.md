@@ -32,6 +32,4 @@ sections:
         title: Media
         subtitle: Learn more
         button: View More
-    - navigation:
-    
 ---
