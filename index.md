@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Temasek Polytechnic Virtual Campus
         subtitle: Your School from Home
-        background: /images/download.jpeg
+        background: /images/download1.jpg
         #button: Contact Us
         #url: /contact-us/
         key_highlights:
