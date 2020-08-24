@@ -1,10 +1,10 @@
-title: Title
+title: TP Virtual Campus
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
-  primary-color: '#ff0000'
+  primary-color: '#6031b6'
   secondary-color: '#4372d6'
   media-colors:
     - title: media-color-one
@@ -12,7 +12,7 @@ colors:
     - title: media-color-two
       color: '#744d9f'
     - title: media-color-three
-      color: '#ff0000'
+      color: '#00838f'
     - title: media-color-four
       color: '#00838f'
     - title: media-color-five
