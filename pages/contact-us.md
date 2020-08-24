@@ -28,7 +28,7 @@ contacts:
     - email: careers@abc.gov.sg
 
 contacts:
-  Schools & Departments: 
+  - Schools & Departments: 
     - title: Full-time Courses Admissions & Enrolment
       content:
       - phone: +65 6780 4201
