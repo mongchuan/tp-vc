@@ -39,7 +39,7 @@ contacts:
     - email: enquiry@tp.edu.sg
   
   - other: <p>
-  
+  empty space
   </p>
 
   - title: School of Applied Science
