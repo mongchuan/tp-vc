@@ -10,10 +10,23 @@ links:
   title: Be with us
     url: /be-with-us/
     sub-links:
-    - title: Be Connected
-      url: /be-connected/
     - title: Be Involved
       url: /be-involved/
+    - title: Be Entertained
+      url: /be-entertained/
+    - title: Be Awesome
+      url: /be-awesome/
+    - title: Be Caring
+      url: /be-caring/
+    - title: Be Connected
+      url: /be-connected/
+    - title: Be Travelling
+      url: /be-travelling/
+    - title: Be Creative
+      url: /be-creative/
+    - title: Be Updated
+      url: /be-updated/
+    
   - title: About
     url: /about/
   - title: The Campus
