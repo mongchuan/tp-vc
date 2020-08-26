@@ -1,9 +1,8 @@
 ---
-layout: simple-page
+layout: page
 title: Be Awesome
 permalink: /be-awesome/
-breadcrumb: Temasek Polytechnic
-notification: Do not go to school unless neccessary.
+breadcrumb: Be Awesome
 ---
 
 ### This is the title
