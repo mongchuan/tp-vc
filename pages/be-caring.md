@@ -1,6 +1,6 @@
 ---
-layout: simple-page
+layout: page
 title: Be Caring
 permalink: /be-caring/
-breadcrumb: Temasek Polytechnic
+breadcrumb: Be Caring
 ---
