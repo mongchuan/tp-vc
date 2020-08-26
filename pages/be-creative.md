@@ -1,6 +1,6 @@
 ---
-layout: simple-page
+layout: page
 title: Be Creative
 permalink: /be-creative/
-breadcrumb: Temasek Polytechnic
+breadcrumb: Be Creative
 ---
