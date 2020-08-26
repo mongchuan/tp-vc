@@ -1,9 +1,9 @@
 ---
-layout: simple-page
+layout: page
 title: Be Involved
 permalink: /be-involved/
-breadcrumb: Temasek Polytechnic
-notification: Do not go to school unless neccessary.
+breadcrumb: Be Involved
+
 ---
 
 ### **Government Agency Privacy Statement**234234234
