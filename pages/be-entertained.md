@@ -1,6 +1,6 @@
 ---
-layout: simple-page
+layout: page
 title: Be Entertained
 permalink: /be-entertained/
-breadcrumb: Temasek Polytechnic
+breadcrumb: Be Entertained
 ---
