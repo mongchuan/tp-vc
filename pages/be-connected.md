@@ -1,9 +1,8 @@
 ---
-layout: simple-page
+layout: page
 title: Be Connected
 permalink: /be-connected/
-breadcrumb: Temasek Polytechnic
-notification: Do not go to school unless neccessary.
+breadcrumb: Be Connected
 ---
 
 test statement 1
