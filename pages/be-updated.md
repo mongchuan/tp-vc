@@ -1,6 +1,6 @@
 ---
-layout: simple-page
+layout: page
 title: Be Updated
 permalink: /be-updated/
-breadcrumb: Temasek Polytechnic
+breadcrumb: Be Updated
 ---
