@@ -1,6 +1,6 @@
 ---
-layout: simple-page
+layout: page
 title: Be Travelling
 permalink: /be-Travelling/
-breadcrumb: Temasek Polytechnic
+breadcrumb: Be Travelling
 ---
