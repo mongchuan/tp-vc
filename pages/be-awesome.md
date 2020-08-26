@@ -8,4 +8,6 @@ notification: Do not go to school unless neccessary.
 sections:
     - infobar: 
         title: test statement 1
+        subtitle: this
+        description: that
 ---
