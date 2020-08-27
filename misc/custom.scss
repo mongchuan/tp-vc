@@ -39,42 +39,14 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: $secondary !important;
   }
   &-media-color {
-  	&-1 {
-  		background-color: $media-color-one;
-  		&:hover {
-  			background-color: darken($media-color-one, 10%);
-		  }
-  	}
-  	&-2 {
-  		background-color: $media-color-two;
-  		&:hover {
-  			background-color: darken($media-color-two, 10%);
-		  }
-  	}
-  	&-3 {
-  		background-color: $media-color-three;
-  		&:hover {
-  			background-color: darken($media-color-three, 10%);
-		  }
-  	}
-  	&-4 {
-  		background-color: $media-color-four;
-  		&:hover {
-  			background-color: darken($media-color-four, 10%);
-		  }
-  	}
-  	&-5 {
-  		background-color: $media-color-five;
-  		&:hover {
-  			background-color: darken($media-color-five, 10%);
-		  }
-  	}
-    &-6 {
-      background-color: $media-color-six;
-      &:hover {
-        background-color: darken($media-color-six, 10%);
+    {%- for media-color in site.colors.media-colors -%}
+      &-{{- forloop.index -}} {
+        background-color: ${{- media-color.title -}};
+        &:hover {
+          background-color: darken(${{- media-color.title -}}, 10%);
+        }
       }
-    }
+    {%- endfor -%}
   }
   &-1{
     //background-color: $primary;
@@ -160,14 +132,6 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-menu-list a:hover {
 	color: $secondary !important;
 	border-bottom: 1px solid $secondary !important;
-}
-
-//Accordion
-
-.bp-accordion-button {
-  &.sgds-icon-minus {
-    color: $secondary;
-  }
 }
 
 // Button
@@ -322,7 +286,6 @@ $desktop: 960px + (2 * $gap) !default;
   border-bottom: 2px solid $secondary;
 }
 
-
 // CSS to be refactored
 .content img.digital-transformation-icon {
   height: 80px;
@@ -337,7 +300,6 @@ $desktop: 960px + (2 * $gap) !default;
   padding: 2rem;
   margin-top: -5rem;
   background-color: white;
-  color: #767676;
 }
 
 .tag {
@@ -351,44 +313,25 @@ $desktop: 960px + (2 * $gap) !default;
   display: none;
 }
 
-.news-content {
-  position: relative;
-  margin-left: 1rem;
-  margin-right: 1rem;
-  padding: 2rem;
-  margin-top: -7.5rem;
-  background-color: white;
-  color: #767676;
-  &:hover {
-    color: white;
+.image-card:hover {
+  .news-content {
+    background-color: darken(#ffffff, 10%);
   }
 }
 
-.bp-image-milestone {
-  border-bottom: solid 4px $secondary;
+.hero-dropdown {
+  display: flex;
+  padding-top: 1.75rem;
+  padding-bottom: 1.75rem;
 }
 
-// Tables
-table.table-h {
-  th {
-    background-color: $secondary;
-    color: white;
+.is-centered {
+  margin: auto;
+}
+
+.is-three-fifths-mobile {
+  width: 50%;
+  @include touch() {
+    width: 100%;
   }
-  tbody {
-    tr {
-      &:last-child {
-        &:nth-of-type(even) {
-          border-bottom: solid 4px $secondary;
-        }
-      }
-    }
-  }
-}
-
-.navbar-item img {
-  width: 190px;
-}
-
-.bp-hero-body {
-	background: unset;
-}
+} 
