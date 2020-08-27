@@ -14,19 +14,19 @@ sections:
         #url: /contact-us/
         key_highlights:
             - title: LEAD Programmes
-              description: LEAD your lives with us
+              description: The Temasek LEADership Programme
               url: /
             - title: Co-Curricular Activities
-              description: Glimpse of 140 over CCAs
+              description: Glimpse of over 140 CCAs
               url: https://www.tp.edu.sg/cca
             - title: National Education Programmes
-              description: Lorem Ipsum
+              description: Forums
               url: /
     - infobar:
         title: Co-Curricular Activities
         subtitle: Stay up to date with
-        description: About a sentence worth of description here
-        button: Click here for more
+        description: We will feature one CCA a day
+        button: Click here to find out more
         url: /faq/
     - resources:
         title: Media
