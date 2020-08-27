@@ -9,9 +9,22 @@ $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
 
-{%- for media-color in site.colors.media-colors -%}
-  ${{- media-color.title -}}: {{- media-color.color -}};
-{%- endfor -%}
+
+media-colors:
+    - title: media-color-one
+      color: '#49759a'
+    - title: media-color-two
+      color: '#744d9f'
+    - title: media-color-three
+      color: '#00838f'
+    - title: media-color-four
+      color: '#e02828'
+    - title: media-color-five
+      color: '#00838f'
+      
+//{%- for media-color in site.colors.media-colors -%}
+//  ${{- media-color.title -}}: {{- media-color.color -}};
+//{%- endfor -%}
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
