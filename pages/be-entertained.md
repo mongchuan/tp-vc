@@ -11,3 +11,11 @@ breadcrumb: Be Entertained
 [![Filmmakers@DFT]({{site.baseurl}}/images/DFTBanner.jpg)](https://www.viddsee.com/channel/filmmakersdft?locale=en)
 
 ---
+### Listen to TP's RadioActive
+Click [here](https://staff.tp.edu.sg/Documents/radio/index.aspx) for staff\
+Click [here]() for students
+
+---
+-> Channel Takeover <-
+### Simply just want to see what goes on behind the scence of our dance groups
+At our [Youtube](https://www.youtube.com/channel/UCsBvYR8QMBGml4X08t4kVQA)
