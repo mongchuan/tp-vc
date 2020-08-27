@@ -17,6 +17,8 @@ colors:
       color: '#e02828'
     - title: media-color-five
       color: '#00838f'
+    - title: media-color-six
+      color: '#00838f'
 
 
 collections:
