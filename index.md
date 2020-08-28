@@ -25,9 +25,9 @@ sections:
     - infobar:
         title: Co-Curricular Activities
         subtitle: Stay up to date with
-        description: We will feature one CCA a day
-        button: Click here to find out more
-        url: /faq/
+        description: Featured CCA
+        image: images/Salvo.jpg
+        url: https://www.instagram.com/tpsalvo/
     - resources:
         title: Media
         subtitle: Learn more
