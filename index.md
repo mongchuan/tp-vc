@@ -23,16 +23,21 @@ sections:
               description: Forums
               url: /
     - carousel:
-        - title: Co-Curricular Activities
-          subtitle: Stay up to date with
-          description: Featured CCA
+        - title: Featured CCA
+          subtitle: Salvo Drums
+          description: Champion for Blazing Beats
           image: /images/Salvo.jpg
           alt: Salvo
-        - title: Co-Curricular Activities
-          subtitle: Stay up to date with
-          description: Featured CCA
+        - title: Featured CCA
+          subtitle: Salvo Drums
+          description: Champion for DrumzOut
           image: /images/Salvo2.jpg
           alt: Salvo2
+        - title: Featured CCA
+          subtitle: Salvo Drums
+          description: Arts Group of The Year
+          image: /images/Salvo3.jpg
+          alt: Salvo3
 
     - resources:
         title: Media
