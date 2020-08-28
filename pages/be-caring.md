@@ -10,7 +10,6 @@ breadcrumb: Be Caring
 ### Project Helping Hands for Migrant Workers ###
 [![Project Helping Hands](/images/Caring/BeCaring-ProjectHelpingHands6.JPG)](https://projecthelpinghands1.wixsite.com/mysite)
 
-
 ---
-### Here's How You Can Help ###
+### Be a Community Volunteer ###
 [![Volunteer](/images/Caring/InstagramCSC.JPG)](https://www.instagram.com/tp_csc/?hl=en)
