@@ -15,7 +15,7 @@ sections:
         key_highlights:
             - title: LEAD Programmes
               description: The Temasek LEADership Programme
-              url: /
+              url: https://www.tp.edu.sg/student-life#Temasek%20LEAD%20Programme
             - title: Co-Curricular Activities
               description: Glimpse of over 140 CCAs
               url: https://www.tp.edu.sg/cca
