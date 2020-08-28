@@ -26,7 +26,7 @@ sections:
         title: Co-Curricular Activities
         subtitle: Stay up to date with
         description: Featured CCA
-        image: images/Salvo.jpg
+        image: /images/Salvo.jpg
         url: https://www.instagram.com/tpsalvo/
     - resources:
         title: Media
