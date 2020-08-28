@@ -6,3 +6,8 @@ breadcrumb: Be Caring
 ---
 ![TP Community Service Club]({{site.baseurl}}/images/ActionBased(2).jpg "CSC")
 
+---
+<b>Project Helping Hands for Migrant Workers</b>
+<iframe width="560" height="315" src="https://projecthelpinghands1.wixsite.com/mysite" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
