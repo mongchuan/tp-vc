@@ -22,7 +22,7 @@ sections:
             - title: National Education Programmes
               description: Forums
               url: /
-    - infobar:
+    - carousel:
         title: Co-Curricular Activities
         subtitle: Stay up to date with
         description: Featured CCA
