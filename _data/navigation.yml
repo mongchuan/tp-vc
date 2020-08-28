@@ -4,8 +4,7 @@
 #                                #
 ##################################
 
-# Agency logo
-agency-logo: /images/TPlogo_600dpi.jpg
+logo: /images/TPlogo_600dpi.jpg
 
 links:
   - title: Explore
