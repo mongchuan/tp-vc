@@ -4,7 +4,8 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+# Agency logo
+agency-logo: /images/TPlogo_600dpi.jpg
 
 links:
   - title: Explore
