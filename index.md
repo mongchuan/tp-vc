@@ -23,18 +23,18 @@ sections:
               description: Forums
               url: /
     - carousel:
-        - title: Salvo Drums
-          subtitle: Featured CCA
+        - title: Featured CCA
+          subtitle: Salvo Drums
           description: Champion for Blazing Beats
           image: /images/Salvo.jpg
           alt: Salvo
-        - title: Salvo Drums
-          subtitle: Featured CCA
+        - title: Featured CCA
+          subtitle: Salvo Drums
           description: Champion for DrumzOut
           image: /images/Salvo2.jpg
           alt: Salvo2
-        - title: Salvo Drums
-          subtitle: Featured CCA
+        - title: Featured CCA
+          subtitle: Salvo Drums
           description: Arts Group of The Year
           image: /images/Salvo3.jpg
           alt: Salvo3
