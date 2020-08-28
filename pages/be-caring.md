@@ -8,7 +8,7 @@ breadcrumb: Be Caring
 
 ---
 ### Project Helping Hands for Migrant Workers ###
-[![Project Helping Hands](/)](https://projecthelpinghands1.wixsite.com/mysite)
+[![Project Helping Hands](/images/Caring/BeCaring-ProjectHelpingHands6.JPG)](https://projecthelpinghands1.wixsite.com/mysite)
 
 
 ---
