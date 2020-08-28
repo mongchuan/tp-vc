@@ -5,7 +5,9 @@ permalink: /be-entertained/
 breadcrumb: Be Entertained
 
 ---
-# Be Entertained by the works of our very own student #
+# Relive the moments from our very first TP National Day Virtual Day #
+### SG55 X TP30 ###
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z9bb-mYuC6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 ### Made by our very own Temasek Polytechnic’s Digital Film and Television students. ###
 [![Filmmakers@DFT]({{site.baseurl}}/images/DFTBanner.jpg)](https://www.viddsee.com/channel/filmmakersdft?locale=en)
