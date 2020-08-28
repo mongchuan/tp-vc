@@ -19,7 +19,7 @@ Click [here]() for students
 -> Channel Takeover <-
 ### Simply just want to see what goes on behind the scence of our dance groups
 At our [Youtube](https://www.youtube.com/channel/UCsBvYR8QMBGml4X08t4kVQA)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p27P9kSYUDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 ### Check out some of the Art Performances from Singapore & Around the world
 
