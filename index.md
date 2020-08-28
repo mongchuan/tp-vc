@@ -23,11 +23,17 @@ sections:
               description: Forums
               url: /
     - carousel:
-        title: Co-Curricular Activities
-        subtitle: Stay up to date with
-        description: Featured CCA
-        image: /images/Salvo.jpg
-        url: https://www.instagram.com/tpsalvo
+        - title: Co-Curricular Activities
+          subtitle: Stay up to date with
+          description: Featured CCA
+          image: /images/Salvo.jpg
+          alt: Salvo
+        - title: Co-Curricular Activities
+          subtitle: Stay up to date with
+          description: Featured CCA
+          image: /images/Salvo2.jpg
+          alt: Salvo2
+
     - resources:
         title: Media
         subtitle: Learn more
