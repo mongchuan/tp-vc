@@ -5,8 +5,8 @@ permalink: /be-entertained/
 breadcrumb: Be Entertained
 
 ---
-### Relive the moments from our very first TP National Day Virtual Day ###
-### SG55 X TP30 ###
+<b>Relive the moments from our very first TP National Day Virtual Day</b>
+<i>SG55 X TP30</i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z9bb-mYuC6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 ### Filmmakers @ DFT - Short films from our Diploma in Digital Film & Television ###
