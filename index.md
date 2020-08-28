@@ -27,7 +27,7 @@ sections:
         subtitle: Stay up to date with
         description: Featured CCA
         image: /images/Salvo.jpg
-        url: https://www.instagram.com/tpsalvo/
+        url: https://www.instagram.com/tpsalvo
     - resources:
         title: Media
         subtitle: Learn more
