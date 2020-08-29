@@ -27,8 +27,8 @@ links:
     - title: Be Updated
       url: /be-updated/
     
-  - title: About
-    url: /about/
+  #- title: About
+    #url: /about/
   - title: The Campus
     collection: the-campus
   - title: Contact Us
