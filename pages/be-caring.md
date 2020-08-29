@@ -4,7 +4,7 @@ title: Be Caring
 permalink: /be-caring/
 breadcrumb: Be Caring
 ---
-![TP Community Service Club]({{site.baseurl}}/images/ActionBased(2).jpg "CSC")
+![TP Community Service Club]({{site.baseurl}}/images/BeCaring-mid_autumn_festival.jpg)
 
 ---
 ### Project Helping Hands for Migrant Workers ###
@@ -12,4 +12,4 @@ breadcrumb: Be Caring
 
 ---
 ### Be a Community Volunteer ###
-[![Volunteer](/images/Caring/InstagramCSC.JPG)](https://www.instagram.com/tp_csc/?hl=en)
+[![Volunteer](/images/instagram_CSC_volunteer)](https://www.instagram.com/tp_csc/?hl=en)
