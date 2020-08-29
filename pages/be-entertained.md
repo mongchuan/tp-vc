@@ -5,8 +5,8 @@ permalink: /be-entertained/
 breadcrumb: Be Entertained
 
 ---
-<b>Relive the moments from our very first TP National Day Virtual Day</b>\
-<i>SG55 X TP30</i>
+## **Relive the moments from our very first TP National Day Virtual Celebration**
+_SG55 X TP30_
 <iframe width="800" height="450" src="https://www.youtube.com/embed/z9bb-mYuC6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
@@ -30,7 +30,7 @@ Video?
 
 ---
 ### Wanna see events held in TP? Check them out here!
-[![DMPC]({{site.baseurl}}/images/DMPC.jpg)](https://www.flickr.com/photos/digitalmediacrewtp/)
+[![DMPC]({{site.baseurl}}/images/DMPCBanner.jpg)](https://www.flickr.com/photos/digitalmediacrewtp/)
 
 ---
 ### POTSHOT Forum
