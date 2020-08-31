@@ -26,7 +26,7 @@ sections:
         - title: Salvo Drums
           subtitle: Featured CCA
           description: Champion for Blazing Beats
-          image: /images/Salvo.jpg
+          image: /images/Salvo.jpg  
           alt: Salvo
         - title: Salvo Drums
           subtitle: Featured CCA
@@ -38,6 +38,11 @@ sections:
           description: Arts Group of The Year
           image: /images/Salvo3.jpg
           alt: Salvo3
+    
+    - infopic:
+        - title: NDC
+          image: /images/BeEntertained-ndp2020.JPG
+          description: ndp parade
 
     - resources:
         title: Media
