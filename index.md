@@ -13,15 +13,19 @@ sections:
         #button: Contact Us
         #url: /contact-us/
         key_highlights:
-            - title: LEAD Programmes
-              description: The Temasek LEADership Programme
-              url: https://www.tp.edu.sg/student-life#Temasek%20LEAD%20Programme
-            - title: Co-Curricular Activities
-              description: Glimpse of over 140 CCAs
-              url: https://www.tp.edu.sg/cca
-            - title: National Education Programmes
-              description: Forums
-              url: /
+#            - title: LEAD Programmes
+#              description: The Temasek LEADership Programme
+#              url: https://www.tp.edu.sg/student-life#Temasek%20LEAD%20Programme
+#            - title: Co-Curricular Activities
+#              description: Glimpse of over 140 CCAs
+#              url: https://www.tp.edu.sg/cca
+#            - title: National Education Programmes
+#              description: Forums
+#              url: /
+            - title: Student Portal
+              url: https://services.tp.edu.sg/my.policy
+            - title: TP Corporate Website
+              url: https://www.tp.edu.sg
     - carousel:
         - title: Salvo Drums
           subtitle: Featured CCA
