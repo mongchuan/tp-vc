@@ -24,6 +24,8 @@ colors:
 collections:
   the-campus:
     output: true
+  explore:
+    output: true
 
 resources_name: media
 
