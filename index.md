@@ -40,9 +40,13 @@ sections:
           alt: Salvo3
     
     - infopic:
-        - title: NDC
-          image: /images/BeEntertained-ndp2020.JPG
-          description: ndp parade
+        title: NDC
+        subtitle: test
+        image: /images/BeEntertained-ndp2020.JPG
+        description: ndp parade
+        button: learn more
+        url: /be-entertained/
+        alt: test
 
     - resources:
         title: Media
