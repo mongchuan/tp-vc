@@ -8,25 +8,7 @@ logo: /images/TPlogo.jpg
 
 links:
   - title: Explore
-    url: /explore/
-    sublinks:
-    - title: Be Involved
-      url: /
-    - title: Be Entertained
-      url: /be-entertained/
-    - title: Be Awesome
-      url: /be-awesome/
-    - title: Be Caring
-      url: /be-caring/
-    - title: Be Connected
-      url: /be-connected/
-    - title: Be Travelling
-      url: /be-travelling/
-    - title: Be Creative
-      url: /be-creative/
-    - title: Be Updated
-      url: /be-updated/
-    
+    collection: explore    
   #- title: About
     #url: /about/
   - title: The Campus
