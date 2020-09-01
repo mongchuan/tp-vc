@@ -1,7 +1,7 @@
 ---
 layout: page
 title: National Day Virtual Celebration
-permalink: /be-entertained/NDPC/
+permalink: /be-entertained/ndpc/
 third_nav_title: Be Entertained
 
 ---
