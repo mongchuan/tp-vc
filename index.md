@@ -51,7 +51,7 @@ sections:
         image: /images/BeEntertained-ndp2020.JPG
         description: ndp parade
         button: learn more
-        url: /be-entertained/
+        url: /be-entertained/ndpc/
         alt: test
 
     - resources:
