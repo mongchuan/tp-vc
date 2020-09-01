@@ -8,9 +8,8 @@ sections:
 
 ---
 
-
 ```html
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>Bootstrap Example</title>
@@ -27,7 +26,7 @@ sections:
     height: 100%;
   }
   </style>
-</head>
+</head>-->
 <body>
 
 <div id="demo" class="carousel slide" data-ride="carousel">
