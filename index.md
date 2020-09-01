@@ -24,10 +24,10 @@ sections:
 #              url: /
             - title: Student Portal
               description: get to your student portal here
-              url: https://services.tp.edu.sg/my.policy
+              url: https://services.tp.edu.sg/
             - title: TP Corporate Website
               description: need anything from TP Website?
-              url: https://www.tp.edu.sg
+              url: https://www.tp.edu.sg/
     - carousel:
         - title: Salvo Drums
           subtitle: Featured CCA
