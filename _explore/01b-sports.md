@@ -6,7 +6,7 @@ third_nav_title: Be Involved
 
 ---
 
-### 10 Pin Bowling
+# 10 Pin Bowling
 
 image
 
