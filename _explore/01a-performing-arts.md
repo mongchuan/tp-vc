@@ -7,3 +7,9 @@ third_nav_title: Be Involved
 ---
 
 ### Band
+
+image
+
+text
+
+hyperlink
