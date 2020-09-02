@@ -8,7 +8,7 @@ third_nav_title: Be Involved
 
 # Band
 
-image
+![Band](https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/band.jpg){:style="display:block;margin-left:auto;margin-right:auto;"}
 
 text
 

@@ -8,7 +8,7 @@ third_nav_title: Be Involved
 
 # Business Ambassadors
 
-image
+![Business Ambassadors](https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/p10-interest-clubs/business_ambassadors.jpg){:style="display:block;margin-left:auto;margin-right:auto;"}
 
 text
 
