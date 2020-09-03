@@ -6,10 +6,30 @@ third_nav_title: Be Involved
 
 ---
 
+Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Development & Alumni Affairs Department (SDAA), believes in cultivating the arts on campus and in nurturing our student-artists through talent and leadership development, performance opportunities and platforms for artistic expression. All our members are handpicked through a selection process. Through high-quality concerts and productions, our student-artists express their creativity, hone their craft and aspire to be artists creating works in the local and global artistic landscapes.
+
 # Band
-
-![Band](https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/band.jpg){:style="display:block;margin-left:auto;margin-right:auto;"}
-
-text
-
-hyperlink
+<div>
+<table>
+    <tr>
+        <td style="width:33%"><image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/band.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band"></image></td>
+        <td>
+        The Temasek Polytechnic Band (TP Band) performs a wide repertoire of concert music from classical and pop arrangements to movie soundtracks. The rich blend of woodwind, brass and percussion instruments will surely leave audiences at the edge of their seats. Under the baton of conductors Mr Tan Beng Wee and Mr Ignatius Wang, they have actively been contributing to the vibrant arts scene on and off campus since the establishment of the polytechnic in 1990. TP Band is a platform for all budding, talented young musicians to develop their musicianship and performance capabilities.
+        <br><br>
+        <b>Achievements:</b>
+        Band Fiesta @ Gardens by The Bay (2019)<br>
+        Temasek Spectacular 2019<br>
+        Tampines East National Day Dinner (2019)
+        <br><br>
+        <b>Training Days:</b>
+        Monday, 7pm to 9pm (Mr Ignatius Wang)<br>
+        Wednesday, 6.30pm to 9pm (Optional self/sectional practice)<br>
+        Friday, 6.30pm to 9pm (Mr Tan Beng Wee)
+        <br><br>
+        <b>CCA Staff Advisor:</b> <a href="nigeltan@tp.edu.sg">Mr Nigel Tan</a>
+        <br><br>
+        CCA <a href="https://www.instagram.com/temasekpolyband">Instagram</a>
+        </td>
+    </tr>
+</table>
+</div>
