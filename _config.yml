@@ -6,19 +6,19 @@ favicon: /images/favicon-isomer.ico
 colors:
   primary-color: '#e02828'
   secondary-color: '#4372d6'
-  media-colors:
-    - title: media-color-one
-      color: '#49759a'
-    - title: media-color-two
-      color: '#744d9f'
-    - title: media-color-three
-      color: '#00838f'
-    - title: media-color-four
-      color: '#e02828'
-    - title: media-color-five
-      color: '#00838f'
-    - title: media-color-six
-      color: '#00838f'
+  #media-colors:
+  #  - title: media-color-one
+  #    color: '#49759a'
+  #  - title: media-color-two
+  #    color: '#744d9f'
+  #  - title: media-color-three
+  #    color: '#00838f'
+  #  - title: media-color-four
+  #    color: '#e02828'
+  #  - title: media-color-five
+  #    color: '#00838f'
+  #  - title: media-color-six
+  #    color: '#00838f'
 
 
 collections:
