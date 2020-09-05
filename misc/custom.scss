@@ -9,6 +9,13 @@ $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
 
+//$media-color-one: {{- site.colors.media-colors.media-color-one -}};
+//$media-color-two: {{- site.colors.media-colors.media-color-two -}}; //releases colour
+//$media-color-three: {{- site.colors.media-colors.media-color-three -}}; //stories colour
+//$media-color-four: {{- site.colors.media-colors.media-color-four -}}; //cca colour
+//$media-color-five: {{- site.colors.media-colors.media-color-five -}};
+//$media-color-six: {{- site.colors.media-colors.media-color-six -}};
+
 $media-color-one: #49759a;
 $media-color-two: #744d9f; //releases colour
 $media-color-three: #00838f; //stories colour
