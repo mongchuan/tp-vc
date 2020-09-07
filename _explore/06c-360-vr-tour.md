@@ -6,4 +6,4 @@ third_nav_title: Be Travelling
 
 ---
 
-<!--Image with hyperlink to website-->
+[![Campus 360° VR Tour]({{site.baseurl}}/images/tpvrtour.gif)](https://apps.tp.edu.sg/vrtour/){:style="display:block;margin-left:auto;margin-right:auto;"}
