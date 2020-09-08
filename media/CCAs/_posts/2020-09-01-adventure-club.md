@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Adventure Club
+permalink: /cca/adventure-club/
+---
+
+# Adventure Club
+
+
+<table>
+    <tr>
+        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_adventure_club.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Adventure Club"></image></td>
+        <td>
+        The TP Adventure Club (TPAC) organises exciting outdoor and adventure activities that are open to all TP students. These activities include overseas adventure expeditions, camps, kayaking, cycling, trekking, mountaineering, wildlife appreciation and other campus-wide events suitable for all skill levels.
+        <br><br>
+        TPAC organises events throughout the year on top of bi-weekly experiential training sessions.
+        <br><br>
+        <b>CCA Staff Advisor:</b> <a href="edwink@tp.edu.sg">Mr Edwin Khong</a>
+        <br><br>
+        CCA <a href="https://www.instagram.com/tpadventureclub">Instagram</a>
+        </td>
+    </tr>
+ 
+</table>
