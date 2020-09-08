@@ -11,6 +11,16 @@ third_nav_title: Be Involved
 <iframe width="800" height="450" style="display:block;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/XKqE11UnsSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 LEAD students will engage themselves in their leadership journey through a suite of programmes that are run in 3 main categories. These programmes are highly funded, with some overseas programmes funded as much as 90%. The Core programmes ensure that participants are exposed to and developed in the 4 key areas of leadership espoused by Temasek LEAD.
+
+<table>
+    <tr>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Photo 2"></image>       
+        </td>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Photo 3"></image>       
+        </td>
+    </tr>
+</table>
+
 <!--![Lead Heart]({{site.baseurl}}/images/BeInvolved-lead_heart.png)
 ![Lead Induction]({{site.baseurl}}/images/BeInvolved-lead_induction.png)
 ![Lead Summit]({{site.baseurl}}/images/BeInvolved-lead_summit.png)-->
