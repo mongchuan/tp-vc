@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TP Community Service Club
+title: TP Cares
 permalink: /be-caring/tp-csc/
 third_nav_title: Be Caring
 
