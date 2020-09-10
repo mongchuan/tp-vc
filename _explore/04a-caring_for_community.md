@@ -5,12 +5,22 @@ permalink: /be-caring/caring-for-community/
 third_nav_title: Be Caring
 
 ---
-[![TP Community Service Club]({{site.baseurl}}/images/BeCaring-mid_autumn_festival.jpg)](https://www.facebook.com/tpcsc/)
-
-"A Caring Heart & Volunteering Spirit" is the motto that the TP Community Service Club (CSC) abides by. The CSC aims to instil the spirit of volunteerism in TP students and build a strong base of volunteers to serve the community. TP CSC had previously won Constituent Club of the Year consecutively for at least five years. Its members had also won Community Excellence Awards in recent years. Find out [more](https://www.instagram.com/p/CA79lJFnZIn/?utm_source=ig_web_copy_link)
-
----
 ### Project Helping Hands for Migrant Workers ###
-“Project Helping Hands” is a new initiative by TP CSC aimed to raise awareness of the plight of migrant workers and at the same time instill a caring spirit in our volunteers. Special notes were posted online to encourage the migrant workers through this COVID-19 period. In addition, care packs of basic items were prepared and sent to these migrant workers in appreciate of their contributions to Singapore. Learn [more](https://projecthelpinghands1.wixsite.com/mysite)
+<div style="text-align: justify">
+    <p>
+“Project Helping Hands” is a new initiative by TP CSC aimed to raise awareness of the plight of migrant workers and at the same time instill a caring spirit in our volunteers. Special notes were posted online to encourage the migrant workers through this COVID-19 period. In addition, care packs of basic items were prepared and sent to these migrant workers in appreciate of their contributions to Singapore. 
+    </p>
+</div>
+
+
+**Learn [more](https://projecthelpinghands1.wixsite.com/mysite)**
 
 ![Project Helping Hands]({{site.baseurl}}/images/BeCaring-project_helping_hands.JPG)
+
+---
+![TP Community Service Club]({{site.baseurl}}/images/BeCaring-mid_autumn_festival.jpg)
+<div style="text-align: justify">
+    <p>
+    There are several campus-wide volunteering events organized for you contribute to the community included the Walk for Rice @ TP, 3M Step-Up Challenge @ TP and Hair For Hope @ TP. Other long term projects included Volunteering with SAMH and YEAH! (Youths Engaged Active and Healthy) Programme @ Tampines West CC.  If you have a heart for the community and keen to pay it forward, click <a href="https://www.instagram.com/p/CA79lJFnZIn/?utm_source=ig_web_copy_link">here</a> to find out more!
+    </p>
+</div>
