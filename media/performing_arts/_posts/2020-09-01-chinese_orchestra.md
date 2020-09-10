@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Band
-permalink: /performing_arts/band/
+title:  Chinese Orchestra
+permalink: /performing_arts/chinese_orchestra/
 ---
 
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_band.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band"></image></td>
+        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_chinese_orchestra.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band"></image></td>
         <td>
         The Temasek Polytechnic Band (TP Band) performs a wide repertoire of concert music from classical and pop arrangements to movie soundtracks. The rich blend of woodwind, brass and percussion instruments will surely leave audiences at the edge of their seats. Under the baton of conductors Mr Tan Beng Wee and Mr Ignatius Wang, they have actively been contributing to the vibrant arts scene on and off campus since the establishment of the polytechnic in 1990. TP Band is a platform for all budding, talented young musicians to develop their musicianship and performance capabilities.
         <br><br>

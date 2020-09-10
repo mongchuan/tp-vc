@@ -4,9 +4,6 @@ title:  Adventure Club
 permalink: /p10_interest_groups/adventure-club/
 ---
 
-# Adventure Club
-
-
 <table>
     <tr>
         <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_adventure_club.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Adventure Club"></image></td>
