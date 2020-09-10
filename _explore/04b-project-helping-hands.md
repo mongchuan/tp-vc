@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Helping Hands
+title: Caring for Environment
 permalink: /be-caring/project-helping-hands/
 third_nav_title: Be Caring
 
