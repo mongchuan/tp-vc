@@ -6,7 +6,7 @@ third_nav_title: Be Caring
 
 ---
 ### ECO Fest Campaign ###
-The inaugural ECO Fest Campaign was held with a series of interesting activities to encourage TP Community to work towards making TP a #plasticfree campus. A photo contest on My Eco-Friendly Life’ was held with enthusiasm from both students and staff. 
+The inaugural ECO Fest Campaign was held with a series of interesting activities to encourage TP Community to work towards making TP a #plasticfree campus. A photo contest on 'My Eco-Friendly Life’ was held with enthusiasm from both students and staff. 
 
 **Learn [more](https://www.instagram.com/p/CCm7zaGHYBL/?utm_source=ig_web_copy_link)**
 
