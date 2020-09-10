@@ -40,14 +40,14 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
         </tr>
         <tr>
             <td style="max-width:49%; vertical-align:bottom"><br><h4>Digital Media and Production Crew</h4>
-                <a href="{{site.baseurl}}/performing_arts/band/">
-                    <image src="{{site.baseurl}}/images/CCA_digital_media.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band">
+                <a href="{{site.baseurl}}/performing_arts/digital_media/">
+                    <image src="{{site.baseurl}}/images/CCA_digital_media.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Media and Production Crew">
                     </image>
                 </a>
             </td>
             <td style="max-width:49%; vertical-align:bottom"><br><h4>Dikir Barat</h4>
-                <a href="{{site.baseurl}}/performing_arts/band/">
-                    <image src="{{site.baseurl}}/images/CCA_dikir_barat.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <a href="{{site.baseurl}}/performing_arts/dikir_barat/">
+                    <image src="{{site.baseurl}}/images/CCA_dikir_barat.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
                     </image>
                 </a>
             </td>
