@@ -22,6 +22,7 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
             <td style="width:49%"><image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/chinese_orchestra.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra"></image>
             </td>
         </tr>
+        <br>
         <tr>
             <td style="width:49%"><h3>Chorale</h3>
             </td>
@@ -34,6 +35,7 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
             <td style="width:49%"><image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/dance_ensemble.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra"></image>
             </td>
         </tr>
+        <br>
         <tr>
             <td style="width:49%"><h3>Digital Media and Production Crew</h3>
             </td>
