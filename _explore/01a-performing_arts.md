@@ -11,13 +11,13 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
 <div>
     <table>
         <tr>
-            <td style="width:49%; vertical-align:bottom"><h3>Band</h3>
+            <td style="width:49%; vertical-align:bottom"><br><h3>Band</h3>
                 <a href="{{site.baseurl}}/performing_arts/band/">
                     <image src="{{site.baseurl}}/images/CCA_band.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band">
                     </image>
                 </a>
             </td>
-            <td style="width:49%; vertical-align:bottom"><h3>Chinese Orchestra</h3>
+            <td style="width:49%; vertical-align:bottom"><br><h3>Chinese Orchestra</h3>
                 <a href="{{site.baseurl}}/performing_arts/chinese_orchestra/">
                     <image src="{{site.baseurl}}/images/CCA_chinese_orchestra.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
                     </image>
