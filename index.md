@@ -8,7 +8,7 @@ permalink: /
 sections:
     - hero:
         title: Virtually The Place To Be
-        subtitle: Your School from Home
+        subtitle: Life@TP
         background: /images/download1.jpg
         #button: Contact Us
         #url: /contact-us/
