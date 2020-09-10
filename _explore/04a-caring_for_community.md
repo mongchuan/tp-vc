@@ -6,7 +6,12 @@ third_nav_title: Be Caring
 
 ---
 ### Project Helping Hands for Migrant Workers ###
+<div style="text-align: justify">
+    <p>
 “Project Helping Hands” is a new initiative by TP CSC aimed to raise awareness of the plight of migrant workers and at the same time instill a caring spirit in our volunteers. Special notes were posted online to encourage the migrant workers through this COVID-19 period. In addition, care packs of basic items were prepared and sent to these migrant workers in appreciate of their contributions to Singapore. 
+    </p>
+</div>
+
 
 **Learn [more](https://projecthelpinghands1.wixsite.com/mysite)**
 
