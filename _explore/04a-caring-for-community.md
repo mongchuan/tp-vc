@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Caring for Community
-permalink: /be-caring/tp-csc/
+permalink: /be-caring/caring-for-community/
 third_nav_title: Be Caring
 
 ---

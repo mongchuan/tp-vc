@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Caring for You
-permalink: /be-caring/volunteer/
+permalink: /be-caring/caring-for-you/
 third_nav_title: Be Caring
 
 ---
