@@ -11,13 +11,13 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
 <div>
     <table>
         <tr>
-            <td style="width:49%"><h3>Band</h3>
+            <td style="width:49%; vertical-align:bottom"><h3>Band</h3>
                 <a href="{{site.baseurl}}/performing_arts/band/">
                     <image src="{{site.baseurl}}/images/CCA_band.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band">
                     </image>
                 </a>
             </td>
-            <td style="width:49%"><h3>Chinese Orchestra</h3>
+            <td style="width:49%; vertical-align:bottom"><h3>Chinese Orchestra</h3>
                 <a href="{{site.baseurl}}/performing_arts/chinese_orchestra/">
                     <image src="{{site.baseurl}}/images/CCA_chinese_orchestra.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
                     </image>
@@ -25,13 +25,13 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
             </td>
         </tr>
         <tr>
-            <td style="width:49%"><br><h3>Chorale</h3>
+            <td style="width:49%; vertical-align:bottom"><br><h3>Chorale</h3>
                 <a href="{{site.baseurl}}/performing_arts/chorale/">
                     <image src="{{site.baseurl}}/images/CCA_chorale.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale">
                     </image>
                 </a>
             </td>
-            <td style="width:49%"><br><h3>Dance Ensemble</h3>
+            <td style="width:49%; vertical-align:bottom"><br><h3>Dance Ensemble</h3>
                 <a href="{{site.baseurl}}/performing_arts/dance_ensemble/">
                     <image src="{{site.baseurl}}/images/CCA_dance_ensemble.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
                     </image>
@@ -39,13 +39,13 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
             </td>
         </tr>
         <tr>
-            <td style="width:49%"><br><h3>Digital Media and Production Crew</h3>
+            <td style="width:49%; vertical-align:bottom"><br><h3>Digital Media and Production Crew</h3>
                 <a href="{{site.baseurl}}/performing_arts/band/">
                     <image src="{{site.baseurl}}/images/CCA_digital_media.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band">
                     </image>
                 </a>
             </td>
-            <td style="width:49%"><br><h3>Dikir Barat</h3>
+            <td style="width:49%; vertical-align:bottom"><br><h3>Dikir Barat</h3>
                 <a href="{{site.baseurl}}/performing_arts/band/">
                     <image src="{{site.baseurl}}/images/CCA_dikir_barat.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
                     </image>
