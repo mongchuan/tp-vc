@@ -19,13 +19,13 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
         <tr>
             <td style="width:49%">
                 <a href="{{site.baseurl}}/performing_arts/band/">
-                    <image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/band.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band">
+                    <image src="{{site.baseurl}}/images/CCA_band.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band">
                     </image>
                 </a>
             </td>
             <td style="width:49%">
                 <a href="{{site.baseurl}}/performing_arts/chinese_orchestra/">
-                    <image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/chinese_orchestra.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                    <image src="{{site.baseurl}}/images/CCA_chinese_orchestra.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
                     </image>
                 </a>
             </td>
@@ -39,13 +39,13 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
         <tr>
             <td style="width:49%">
                 <a href="{{site.baseurl}}/performing_arts/chorale/">
-                    <image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/chorale.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale">
+                    <image src="{{site.baseurl}}/images/CCA_chorale.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale">
                     </image>
                 </a>
             </td>
             <td style="width:49%">
                 <a href="{{site.baseurl}}/performing_arts/dance_ensemble/">
-                    <image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/dance_ensemble.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                    <image src="{{site.baseurl}}/images/CCA_dance_ensemble.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
                     </image>
                 </a>
             </td>
@@ -60,13 +60,13 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
         <tr>
             <td style="width:49%">
                 <a href="{{site.baseurl}}/performing_arts/band/">
-                    <image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/digital_media.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band">
+                    <image src="{{site.baseurl}}/images/CCA_digital_media.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band">
                     </image>
                 </a>
             </td>
             <td style="width:49%">
                 <a href="{{site.baseurl}}/performing_arts/band/">
-                    <image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/dikir_barat.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                    <image src="{{site.baseurl}}/images/CCA_dikir_barat.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
                     </image>
                 </a>
             </td>
