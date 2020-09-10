@@ -37,7 +37,7 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
         <tr>
             <td style="width:49%"><h3>Digital Media and Production Crew</h3>
             </td>
-            <td style="width:49%"><h3>dikir_barat</h3>
+            <td style="width:49%"><h3>Dikir Barat</h3>
             </td>
         </tr>
         <tr>
