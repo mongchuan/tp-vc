@@ -5,8 +5,5 @@ permalink: /be-caring/volunteer/
 third_nav_title: Be Caring
 
 ---
-### Be a Community Volunteer ###
-Some of the annual campus-wide volunteering events that TP Community Service Club organises include the Walk for Rice @ TP, 3M Step-Up Challenge @ TP and Hair For Hope @ TP. Other long term projects include Volunteering @ MINDs, IMH and YEAH! (Youths Engaged Active and Healthy) Programme @ Tampines West CC.  If you have a heart for the community and want to pay it forward, come join TP Community Service Club as a member now! Alternatively, if you have a passion for a sustainable environment for our future, come join the TP Green Interest Group! Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328RWhQX2HOn5Iov-OuCvuq-tUM1RNNDVTWFQxTTFWQ1RaUFdDTktKSVlDNy4u&nocdn=2) to register your interest. 
-
-
-[![Volunteer]({{site.baseurl}}/images/instagram_csc_volunteer.jpg)](https://www.instagram.com/tp_csc/?hl=en)
+### Campus Care Network ###
+![Campus Care Network]({{site.baseurl}}/images/BeInvolved-ccn_1.JPG)
