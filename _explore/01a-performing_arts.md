@@ -17,16 +17,23 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
             </td>
         </tr>
         <tr>
-            <td style="width:49%"><image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/band.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band"></image>
+            <td style="width:49%">
+                <a href="{{site.baseurl}}/cca/band/">
+                    <image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/band.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band">
+                    </image>
+                </a>
             </td>
-            <td style="width:49%"><image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/chinese_orchestra.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra"></image>
+            <td style="width:49%">
+                <a href="{{site.baseurl}}/cca/band/">
+                    <image src="https://www.tp.edu.sg/content/dam/tp-web/images/life@tp/cca/performing-arts/chinese_orchestra.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                    </image>
+                </a>
             </td>
         </tr>
         <tr>
-        <br>
-            <td style="width:49%"><h3>Chorale</h3>
+            <td style="width:49%"><br><h3>Chorale</h3>
             </td>
-            <td style="width:49%"><h3>Dance Ensemble</h3>
+            <td style="width:49%"><br><h3>Dance Ensemble</h3>
             </td>
         </tr>
         <tr>
@@ -37,9 +44,9 @@ Temasek Arts Centre (TAC), the arts and culture wing of TP’s Student Developme
         </tr>
         <tr>
            <br>
-            <td style="width:49%"><h3>Digital Media and Production Crew</h3>
+            <td style="width:49%"><br><h3>Digital Media and Production Crew</h3>
             </td>
-            <td style="width:49%"><h3>Dikir Barat</h3>
+            <td style="width:49%"><br><h3>Dikir Barat</h3>
             </td>
         </tr>
         <tr>
