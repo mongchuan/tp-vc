@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Digital Media and Production Crew
-permalink: /performing_arts/digital_media_production_crew/
+permalink: /performing_arts/digital_media/
 ---
 
 <div>
