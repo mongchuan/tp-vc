@@ -32,18 +32,18 @@ sections:
         - title: Salvo Drums
           subtitle: Featured CCA
           description: Champion for Blazing Beats
-          image: /images/Salvo.jpg  
-          alt: Salvo
+          image: /images/Salvo1.jpg  
+          alt: Salvo1
         - title: Salvo Drums
           subtitle: Featured CCA
           description: Champion for DrumzOut
-          image: /images/Salvo2.jpg
-          alt: Salvo2
+          image: /images/Salvo12.jpg
+          alt: Salvo12
         - title: Salvo Drums
           subtitle: Featured CCA
           description: Arts Group of The Year
-          image: /images/Salvo3.jpg
-          alt: Salvo3
+          image: /images/Salvo13.jpg
+          alt: Salvo13
     
     - infopic:
         title: NDC
