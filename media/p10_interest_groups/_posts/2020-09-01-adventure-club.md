@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Adventure Club
-permalink: /cca/adventure-club/
+permalink: /p10_interest_groups/adventure-club/
 ---
 
 # Adventure Club
