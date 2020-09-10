@@ -7,23 +7,22 @@ permalink: /performing_arts/chinese_orchestra/
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_chinese_orchestra.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band"></image></td>
+        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_chinese_orchestra.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra"></image></td>
         <td>
-        The Temasek Polytechnic Band (TP Band) performs a wide repertoire of concert music from classical and pop arrangements to movie soundtracks. The rich blend of woodwind, brass and percussion instruments will surely leave audiences at the edge of their seats. Under the baton of conductors Mr Tan Beng Wee and Mr Ignatius Wang, they have actively been contributing to the vibrant arts scene on and off campus since the establishment of the polytechnic in 1990. TP Band is a platform for all budding, talented young musicians to develop their musicianship and performance capabilities.
+        The Chinese Orchestra performs Chinese music using various Chinese instruments such as the Yangqin, Erhu and Pipa to explore the world of traditional and contemporary Chinese music. The elegant and soulful music presented by the Chinese Orchestra will enchant and enthral the audience. The orchestra collaborates with other CCAs such as Band and String Ensemble and also ventures out for public performances and overseas exchange programmes.
         <br><br>
-        <b>Achievements:</b>
-        Band Fiesta @ Gardens by The Bay (2019)<br>
-        Temasek Spectacular 2019<br>
-        Tampines East National Day Dinner (2019)
+        <b>Achievements:</b >
+        Annual Chinese Orchestra Concerts, Magical Autumn XII (2019)<br>
+        NAC Arts In Your Neighbour: Music On The Move (2019)<br>
+        HKCO Singapore Tour Campus Concert (2018)
         <br><br>
         <b>Training Days:</b>
-        Monday, 7pm to 9pm (Mr Ignatius Wang)<br>
-        Wednesday, 6.30pm to 9pm (Optional self/sectional practice)<br>
-        Friday, 6.30pm to 9pm (Mr Tan Beng Wee)
+        Wednesday (Combined), 7pm to 9pm<br>
+        Friday (Sectionals), 7pm to 9pm
         <br><br>
-        <b>CCA Staff Advisor:</b> <a href="nigeltan@tp.edu.sg">Mr Nigel Tan</a>
+        <b>CCA Staff Advisor:</b> <a href="sokpeng@tp.edu.sg">Ms Fayanne Tan</a>
         <br><br>
-        CCA <a href="https://www.instagram.com/temasekpolyband">Instagram</a>
+        CCA <a href="https://www.instagram.com/tpchineseorchestra">Instagram</a>
         </td>
     </tr>
 </table>
