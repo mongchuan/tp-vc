@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Dance Ensemble
-permalink: /performing_arts/dance_ensemble/
+title:  Digital Media and Production Crew
+permalink: /performing_arts/digital_media_production_crew/
 ---
 
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_dance_ensemble.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble"></image></td>
+        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_digital_media.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Media and Production Crew"></image></td>
         <td>
             <p>
                 Digital Media & Production Crew forms the backbone of all performing arts groups by providing extensive technical support. Other than providing the essentials such as lighting, sound, video, stage management, photography, videography and front-of-house, they also organise campus-wide events such as the annual DREAMS Concert.<br>
