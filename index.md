@@ -46,13 +46,13 @@ sections:
           alt: Salvo13
     
     - infopic:
-        title: NDC
-        subtitle: test
+        title: TP National Day Virtual Concert
+        subtitle: Featured Event
         image: /images/BeEntertained-ndp2020.JPG
-        description: ndp parade
+        description: Celebrating Our Nation's 55th Birthday & TP's 30th Anniversary!
         button: learn more
         url: /be-entertained/ndpc/
-        alt: test
+        alt: TPNDC
 
     - resources:
         title: Media
