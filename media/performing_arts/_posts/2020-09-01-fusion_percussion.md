@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fussion Percussion
-permalink: /performing_arts/fussion_percussion/
+permalink: /performing_arts/fusion_percussion/
 ---
 
 <div>
