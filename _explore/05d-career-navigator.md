@@ -12,7 +12,7 @@ Sign up for the virtual CET Master Series Symposium 2020 on 18 September 2020! H
           </p>
 </div>
 
-**Learn [more](https://www.instagram.com/p/CEF1yNVH1O6/?utm_source=ig_web_copy_link)**
+**Learn [more](https://www1.np.edu.sg/cet-symposium-2020/?fbclid=IwAR3bPM9NoNxxX50gxezBNaBXMD7UXqV4qUMu90TuUBx4WHvkRIEo6lSRiFw)**
 
 ![CET Master Series Symposium 2020]({{site.baseurl}}/images/BeConnected_Alumni4.JPG)
 
