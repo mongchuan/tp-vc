@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Adventure Club
-permalink: /p10_interest_groups/adventure-club/
+permalink: /p10_interest_groups/adventure_club/
 ---
 
 <table>
