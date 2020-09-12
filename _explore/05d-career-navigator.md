@@ -20,7 +20,7 @@ Sign up for the virtual CET Master Series Symposium 2020 on 18 September 2020! H
 ### Leveraging LinkedIn for Your Career ###
 <div style="text-align: justify">
     <p>
-Get insightful perspectives and useful tips to build your brand/profile using LinkedIn amidst this challenging times. "Leveraging LinkedIn for Your Career" is hosted by Mr Hosea Lai, Head of Social Impact (APAC), LinkedIn.
+Get insightful perspectives and useful tips to build your brand/profile using LinkedIn amidst these challenging times. "Leveraging LinkedIn for Your Career" is hosted by Mr Hosea Lai, Head of Social Impact (APAC), LinkedIn.
         </p>
 </div>
 
