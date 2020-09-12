@@ -26,6 +26,7 @@ Get insightful perspectives and useful tips to build your brand/profile using Li
 
 ![Leveraging LinkedIn](/images/BeConnected_LinkedIn.JPG)
 
+**Click [here](https://www.facebook.com/watch/live/?v=660591798116873&ref=external)**
+
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftemasekpolyalumni%2Fvideos%2F660591798116873%2F&show_text=0&width=800" width="800" height="742" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F314916878569344%2Fvideos%2F660591798116873&show_text=false&width=734&height=681&appId" width="734" height="681" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
