@@ -16,4 +16,14 @@ If you missed the session by Ms Wendy Yee (TP alumna, Class of 1997, currently b
 
 ![Out of Your Comfort Zone](/images/BeConnected_OutofComfort_Wendy.JPG)
 
+---
+#### National Service By LTA Nicholas Gan ####
+<div style="text-align: justify">
+    <p>
+“Never stop learning. Don’t shy away from opportunities. No matter what, your two years are going to be spent in National Service, so why not make it more memorable and enjoyable?” Watch the video from Winner of NSF of the Year 2019- LTA Nicholas Gan (TP Alumnus, Diploma in Digital Film & Television, Class of 2017) on making the best out of National Service
+          </p>
+</div>
 
+**Find out [more](https://www.facebook.com/watch/?v=1190947567933381&extid=qpzqHagoFYC7JSF3)**
+
+![NSF Video](/images/BeConnected_NSF.JPG)
