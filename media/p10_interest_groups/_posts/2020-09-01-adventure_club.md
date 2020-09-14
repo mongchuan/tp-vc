@@ -13,9 +13,9 @@ permalink: /p10_interest_groups/adventure_club/
                 <br>
                 TPAC organises events throughout the year on top of bi-weekly experiential training sessions.<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="edwink@tp.edu.sg">Mr Edwin Khong</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:edwink@tp.edu.sg">Mr Edwin Khong</a><br>
                 <br>
-                CCA <a href="https://www.instagram.com/tpadventureclub">Instagram</a>
+                <a href="https://www.instagram.com/tpadventureclub">Instagram</a>
             </p>
         </td>
     </tr>
