@@ -23,7 +23,7 @@ permalink: /performing_arts/malay_dance/
                 Monday & Tuesday, 6:30pm to 9:30pm<br>
                 Additional training days on Thursday & Saturday, nearing show day<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="chrislee@tp.edu.sg">Mr Xris Li</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:chrislee@tp.edu.sg">Mr Xris Li</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/keseniansianaktari">Instagram</a>
             </p>

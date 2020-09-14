@@ -18,7 +18,7 @@ permalink: /sports/badminton/
                 <b>Training Days:</b><br>
                 Monday & Thursday, 6.30 to 8.30pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="wkkoh@tp.edu.sg">Mr Koh Wen Kiat</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:wkkoh@tp.edu.sg">Mr Koh Wen Kiat</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpbadminton">Instagram</a>
             </p>

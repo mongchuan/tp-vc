@@ -20,7 +20,7 @@ permalink: /performing_arts/salvo_drums/
                 Tuesday & Thursday, 6.30pm to 9.30pm<br>
                 Saturday, 9am to 5pm (Seniors)<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="sokpeng@tp.edu.sg">Ms Fayanne Tan</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpsalvo">Instagram</a>
             </p>

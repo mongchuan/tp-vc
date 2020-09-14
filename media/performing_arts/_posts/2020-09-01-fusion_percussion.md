@@ -22,7 +22,7 @@ permalink: /performing_arts/fusion_percussion/
                 Wednesday & Thursday, 6.30pm to 9.30pm<br>
                 Occasionally Saturday, 11am to 4pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="nigeltan@tp.edu.sg">Mr Nigel TAn</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:nigeltan@tp.edu.sg">Mr Nigel TAn</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/fusionpercussion">Instagram</a>
             </p>

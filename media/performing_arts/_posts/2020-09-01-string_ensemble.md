@@ -21,7 +21,7 @@ permalink: /performing_arts/dance_ensemble/
                 <b>Training Days:</b><br>
                 Monday, 7pm to 9pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="sokpeng@tp.edu.sg">Ms Fayanne Tan</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpstringensemble">Instagram</a>
             </p>

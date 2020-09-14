@@ -22,7 +22,7 @@ permalink: /performing_arts/indian_dance/
                 Wednesday & Friday, 7pm to 9pm<br>
                 Additional training days, nearing show day<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="chrislee@tp.edu.sg">Mr Xris Li</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:chrislee@tp.edu.sg">Mr Xris Li</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpindiandance">Instagram</a>
             </p>

@@ -24,7 +24,7 @@ permalink: /performing_arts/dance_ensemble/
                 Hip Hop: Wednesday, 6pm to 8pm (Juniors , 8pm to 10pm (Seniors)<br>
                 Breakin’: Thursday, 6pm to 8pm (Juniors), 8pm to 10pm (Seniors)<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="sokpeng@tp.edu.sg">Ms Fayanne Tan</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpdeofficial">Instagram</a>
             </p>

@@ -18,7 +18,7 @@ permalink: /sports/kayak_racing/
                 Monday and Wednesday, 6.30pm<br>
                 Saturday, 7am (Bedok Reservoir)<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="julianqj@tp.edu.sg">Mr Julian Tan</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:julianqj@tp.edu.sg">Mr Julian Tan</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpkayakracingteam">Instagram</a>
             </p>

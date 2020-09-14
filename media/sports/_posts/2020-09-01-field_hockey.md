@@ -18,7 +18,7 @@ permalink: /sports/field_hockey/
                 Monday & Wednesday, 7pm (Women’s)<br>
                 Tuesday & Thursday, 7pm (Men’s)<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="tants@tp.edu.sg">Mr Tan Thian Seng</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:tants@tp.edu.sg">Mr Tan Thian Seng</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tphockey_rays">Instagram</a>
             </p>

@@ -17,7 +17,7 @@ permalink: /sports/basketball/
                 <b>Training Days:</b><br>
                 Monday & Wednesday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="joncsw@tp.edu.sg">Mr Jonathan Chua</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:joncsw@tp.edu.sg">Mr Jonathan Chua</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/temasekpoly_basketball">Instagram</a>
             </p>
