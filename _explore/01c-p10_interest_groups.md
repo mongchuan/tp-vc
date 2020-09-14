@@ -14,13 +14,13 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
 <div>
     <table>
         <tr>
-            <td style="max-width:49%; vertical-align:bottom"><br><h4>Adventure Club</h4>
+            <td style="max-width:49%; vertical-align:bottom"><h4>Adventure Club</h4>
                 <a href="{{site.baseurl}}/p10/ac/">
                     <image src="{{site.baseurl}}/images/CCA_ac.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Adventure Club">
                     </image>
                 </a>
             </td>
-            <td style="max-width:49%; vertical-align:bottom"><br><h4>Applied Science Studies Club</h4>
+            <td style="max-width:49%; vertical-align:bottom"><h4>Applied Science Studies Club</h4>
                 <a href="{{site.baseurl}}/p10/ascsc/">
                     <image src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club">
                     </image>
