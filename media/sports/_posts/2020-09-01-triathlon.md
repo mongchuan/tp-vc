@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  Name B
-permalink: /sports/link_a/
+title:  Triathlon
+permalink: /sports/triathlon/
 ---
 
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_link_a.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Name B"></image></td>
+        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_triathlon.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon"></image></td>
         <td>
             <p>
-                Tuesday & Friday, 7pm<br>
+                Triathlon is a multi-sport event with three continuous endurance components. The most common are swimming, cycling and running over various distances. Triathletes compete for the fastest overall completion time. TP Triathlon team competes in external competitions annually.<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="emailadd">Ms Sheena Wang</a><br>
+                <b>Training Days:</b><br>
+                Monday, 6.30pm (Running)<br>
+                Wednesday, 6.30pm (Swimming)<br>
                 <br>
-                CCA <a href="instaadd">Instagram</a>
+                <b>CCA Staff Advisor:</b> <a href="mailto:darrent@tp.edu.sg">Mr Darren Tan</a><br>
+                <br>
+                CCA <a href="https://www.instagram.com/tptriathlon">Instagram</a>
             </p>
         </td>
     </tr>
