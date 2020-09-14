@@ -1,0 +1,22 @@
+---
+layout: post
+title:  Sports Club
+permalink: /p10/tpsc/
+---
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_TPSC.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Club"></image></td>
+            <td>
+                <p>
+                    Temasek Polytechnic Sports Club (TPSC) is a non-academic constituent club in TP. It is committed to promoting healthy lifestyle and community bonding through the wide array of sports activities for the students to participate and interact with one another. TPSC’s flagship programmes include the Sports & Health Carnival and Cross-Country, which are co-organised with the TP Students’ Union (TPSU), TPSC and other constituent clubs. Other activities organised by TPSC include weekly recreational activities and sub-committee bonding camps etc.<br>
+                    <br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:tanyh@tp.edu.sg">Mr Tan Yeuan Huei</a>,<a href="mailto:tants@tp.edu.sg">Mr Tan Thian Seng</a><br>
+                    <br>
+                    <a href="https://www.instagram.com/tp_sportsclub">Instagram</a>
+                </p>
+            </td>
+        </tr>
+    </table>
+</div>
