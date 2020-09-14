@@ -19,7 +19,7 @@ permalink: /interest_groups/nyaa_challenge/
                         <li>Community Leadership Initiative</li>
                     </ol>
                 <p>
-                    <b>CCA Staff Advisor:</b> <a href="simonctt@tp.edu.sg">Mr Simon Chew</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:simonctt@tp.edu.sg">Mr Simon Chew</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpnyaa">Instagram</a>
                 </p>
