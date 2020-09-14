@@ -20,7 +20,7 @@ permalink: /interest_groups/japanese_cultural_group/
                         <li>Kochi Prefecture, taking part in the 28th National High School Manga Championships (Manga Koshien) in Kochi, Japan</li>
                     </ol>
                 <p>
-                    <b>CCA Staff Advisor:</b> <a href="chanlj@tp.edu.sg">Mr Leslie Chan</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:chanlj@tp.edu.sg">Mr Leslie Chan</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpjcg">Instagram</a>
                 </p>
