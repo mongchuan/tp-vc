@@ -10,7 +10,6 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
 
 
 ## P10
-<br>
 
 <div>
     <table>
@@ -86,3 +85,5 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
         </tr>
     </table>
 </div>
+
+## Interest Groups
