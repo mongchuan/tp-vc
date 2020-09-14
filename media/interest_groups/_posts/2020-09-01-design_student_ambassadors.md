@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Design Student Ambassadors
-permalink: /interest_groups/dseign_ambassadors/
+permalink: /interest_groups/design_ambassadors/
 ---
 
 <div>
