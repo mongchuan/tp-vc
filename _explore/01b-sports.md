@@ -11,15 +11,15 @@ Over many years of discipline, diligence and doggedness, many of Temasek Polytec
 <div>
     <table>
         <tr>
-            <td style="max-width:49%; vertical-align:bottom"><br><h4>caps</h4>
-                <a href="{{site.baseurl}}/sports/lower/">
-                    <image src="{{site.baseurl}}/images/lower.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="caps">
+            <td style="max-width:49%; vertical-align:bottom"><br><h4>10 Pin Bowling</h4>
+                <a href="{{site.baseurl}}/sports/10_pin_bowling/">
+                    <image src="{{site.baseurl}}/images/10_pin_bowling.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
                     </image>
                 </a>
             </td>
-            <td style="max-width:49%; vertical-align:bottom"><br><h4>caps</h4>
-                <a href="{{site.baseurl}}/sports/lower/">
-                    <image src="{{site.baseurl}}/images/lower.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="caps">
+            <td style="max-width:49%; vertical-align:bottom"><br><h4>Aikido</h4>
+                <a href="{{site.baseurl}}/sports/aikido/">
+                    <image src="{{site.baseurl}}/images/aikido.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Aikido">
                     </image>
                 </a>
             </td>
