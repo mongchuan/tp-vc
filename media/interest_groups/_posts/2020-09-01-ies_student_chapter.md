@@ -22,7 +22,7 @@ permalink: /interest_groups/ies_student_chapter/
                     <b>Meeting Day:</b><br>
                     Once a month<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="hufang@tp.edu.sg">Ms Hu Fang</a>, <a href="chianwei@TP.EDU.SG">Mr Patrick Pang</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:hufang@tp.edu.sg">Ms Hu Fang</a>, <a href="mailto:chianwei@TP.EDU.SG">Mr Patrick Pang</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/iestemasekpoly">Instagram</a>
                 </p>
