@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Filmmakers @ DFT
+title: Featured Films by DFT
 permalink: /be-entertained/digital-film-television/
 third_nav_title: Be Entertained
 
