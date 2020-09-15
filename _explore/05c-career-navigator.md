@@ -12,7 +12,7 @@ Sign up for the virtual CET Master Series Symposium 2020 on 18 September 2020! H
           </p>
 </div>
 
-**Learn [more](https://www1.np.edu.sg/cet-symposium-2020/?fbclid=IwAR3bPM9NoNxxX50gxezBNaBXMD7UXqV4qUMu90TuUBx4WHvkRIEo6lSRiFw)**
+**Learn [more](https://www1.np.edu.sg/cet-symposium-2020/?fbclid=IwAR3bPM9NoNxxX50gxezBNaBXMD7UXqV4qUMu90TuUBx4WHvkRIEo6lSRiFw){:target="_blank"}**
 
 ![CET Master Series Symposium 2020]({{site.baseurl}}/images/BeConnected_Alumni4.JPG)
 
@@ -24,6 +24,6 @@ Get insightful perspectives and useful tips to build your brand/profile using Li
         </p>
 </div>
 
-**Click [here](https://www.facebook.com/watch/live/?v=660591798116873&ref=external) to know more**
+**Click [here](https://www.facebook.com/watch/live/?v=660591798116873&ref=external){:target="_blank"} to know more**
 
 ![Leveraging LinkedIn](/images/BeConnected_LinkedIn.JPG)

@@ -13,9 +13,9 @@ Our chats are anonymous.
 
 ---
 ### E-Chat & Counselling Appointment ###
-Learn more [here](https://calendly.com/booktpcs)
+Learn more [here](https://calendly.com/booktpcs){:target="_blank"}
 
 ---
 ### Powtoon Video ###
-<iframe width="800" height="450" src="https://www.powtoon.com/embed/eCItNxp5wAk/" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.powtoon.com/embed/eCItNxp5wAk/" frameborder="0" allowfullscreen target="_blank"></iframe>
 

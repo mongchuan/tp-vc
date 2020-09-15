@@ -12,7 +12,7 @@ If you missed the session by Ms Wendy Yee (TP alumna, Class of 1997, currently b
           </p>
 </div>
 
-**Find out [more](https://www.facebook.com/314916878569344/videos/622083055101219)**
+**Find out [more](https://www.facebook.com/314916878569344/videos/622083055101219){:target="_blank"}**
 
 ![Out of Your Comfort Zone](/images/BeConnected_OutofComfort_Wendy.JPG)
 
@@ -24,6 +24,6 @@ If you missed the session by Ms Wendy Yee (TP alumna, Class of 1997, currently b
           </p>
 </div>
 
-**Find out [more](https://www.facebook.com/watch/?v=1190947567933381&extid=qpzqHagoFYC7JSF3)**
+**Find out [more](https://www.facebook.com/watch/?v=1190947567933381&extid=qpzqHagoFYC7JSF3){:target="_blank"}**
 
 ![NSF Video](/images/BeConnected_NSF.JPG)

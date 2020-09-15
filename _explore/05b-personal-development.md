@@ -13,20 +13,20 @@ TP Biomedical Engineering student and also a fitness ethusiast Samoona Pun share
 #### Cardio Exercise ###
 Focusing on burning fats and building our endurance, this 30-minute intense cardio exercise workout kickstarts the first series.
 
-**Click [here](https://www.facebook.com/watch/?v=572823250041014&extid=27TkvKv818kRUP0f) to view**
+**Click [here](https://www.facebook.com/watch/?v=572823250041014&extid=27TkvKv818kRUP0f){:target="_blank"} to view**
 
 #### Upper Body Exercise ###
 Session Two of our workout series with Samoona Punis focused on upper body exercises
 
-**Join in the exercise [here](https://www.facebook.com/watch/?v=2810943835670014&extid=0pp0kPkVy8zGlTlX)**
+**Join in the exercise [here](https://www.facebook.com/watch/?v=2810943835670014&extid=0pp0kPkVy8zGlTlX){:target="_blank"}**
 
 #### Lower Body Exercise ###
 Session Three of our workout series with Samoona Punis focused on lower body exercises
 
-**Click [here](https://www.facebook.com/watch/?v=3076317465784109&extid=WKyTBg5HJ5uDqm9w) to view**
+**Click [here](https://www.facebook.com/watch/?v=3076317465784109&extid=WKyTBg5HJ5uDqm9w){:target="_blank"} to view**
 
 
 #### Adominal Exercise ####
 This Fourth and final session of our workout series with Samoona Pun focused on abs exercises. 
 
-**Join in the exercise [here](https://www.facebook.com/watch/?v=2732857963627896&extid=thHOD7BiXIdO89Pl)**
+**Join in the exercise [here](https://www.facebook.com/watch/?v=2732857963627896&extid=thHOD7BiXIdO89Pl){:target="_blank"}**
