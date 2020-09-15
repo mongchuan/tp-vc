@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ASEAN Student X-change Programme
-permalink: /be-travelling/asean-student-x-change-programme/
+title: Event Highlights
+permalink: /be-travelling/event-highlights/
 third_nav_title: Be Travelling
 
 ---
