@@ -16,7 +16,7 @@ The ASEAN Student e-Xchange Programme is a virtual-mobility programme in partner
 Through this programme, students will develop a global mindset, deepen cross-cultural skills, fostering cultural awareness and international collaboration.  Along the way; cultivating lasting friendships and at the end of the programme, the students will emerge with bigger hearts.  
 
 We look forward to a warm virtual hand-shake with our ASEAN counterparts."</i> 
-
-Teo Sze Cheng
-Director, International Relations
+<br>
+Teo Sze Cheng<br>
+Director, International Relations<br>
 Head, Centre for Transcultural Studies
