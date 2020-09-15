@@ -48,10 +48,6 @@ For more information, please email to LEAD@tp.edu.sg.
     </tr>
 </table>
 
-<!--![Lead Heart]({{site.baseurl}}/images/BeInvolved-lead_heart.png)
-![Lead Induction]({{site.baseurl}}/images/BeInvolved-lead_induction.png)
-![Lead Summit]({{site.baseurl}}/images/BeInvolved-lead_summit.png)-->
-
 <table>
     <tr>
         <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-lead_heart.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Heart"></image>       
