@@ -6,5 +6,5 @@ third_nav_title: Be Creative
 
 ---
 <div>
-    <iframe src="https://www.tp.edu.sg/content/dam/tp-web/files/flipbook/BOLD/index.html">
+    <object data="{{site.baseurl}}/images/BOLD.pdf" type="application/pdf" width="100%" height="100%">
 </div>
