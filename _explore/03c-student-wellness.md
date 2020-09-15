@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Student Care Services
-permalink: /be-awesome/student-care-services/
+title: Student Wellness
+permalink: /be-awesome/student-wellness/
 third_nav_title: Be Awesome
 
 ---
