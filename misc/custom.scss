@@ -411,7 +411,7 @@ table.table-h {
     tr {
       &:last-child {
         &:nth-of-type(even) {
-          border-bottom: solid 0px $secondary;
+          border-bottom: solid 4px $secondary;
         }
       }
     }
