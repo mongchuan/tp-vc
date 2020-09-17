@@ -52,54 +52,54 @@ third_nav_title: Be Involved
         </tr>
         <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Law & Management</h4>
-                <a href="https://www.instagram.com/team_cmm/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_cmmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Law & Management Interest Group">
+                <a href="https://www.instagram.com/tplawinc/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_lmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Law & Management Interest Group">
                     </image>
                 </a>
             </td>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Leisure & Events Management</h4>
-                <a href="https://www.instagram.com/tp_ccm/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_ccmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Leisure & Events Management">
+                <a href="https://www.instagram.com/lemigofficial/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_lemig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Leisure & Events Management">
                     </image>
                 </a>
             </td>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Logistics & Operations Management</h4>
-                <a href="https://www.instagram.com/tphtm/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_htmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Logistics & Operations Management">
+                <a href="https://www.instagram.com/tp_lom/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_lomig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Logistics & Operations Management">
                     </image>
                 </a>
             </td>
         </tr>
         <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Marketing</h4>
-                <a href="https://www.instagram.com/team_cmm/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_cmmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Marketing Interest Group">
+                <a href="https://www.instagram.com/tpmarketing/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_mig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Marketing Interest Group">
                     </image>
                 </a>
             </td>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Retail Management</h4>
-                <a href="https://www.instagram.com/tp_ccm/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_ccmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Management">
+                <a href="https://www.instagram.com/tprmig/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_rmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Management">
                     </image>
                 </a>
             </td>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Service Ambassadors</h4>
-                <a href="https://www.instagram.com/tphtm/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_htmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Service Ambassadors">
+                <a href="" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_saig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Service Ambassadors">
                     </image>
                 </a>
             </td>
         </tr>
         <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Stop Press Campus Newspaper</h4>
-                <a href="https://www.instagram.com/team_cmm/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_cmmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Stop Press Campus Newspaper">
+                <a href="https://www.instagram.com/explore/tags/tpstoppress/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_spcnig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Stop Press Campus Newspaper">
                     </image>
                 </a>
             </td>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>PATA Singapore TP Student Chapter</h4>
-                <a href="https://www.instagram.com/tp_ccm/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_ccmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="PATA Singapore TP Student Chapter">
+                <a href="https://www.instagram.com/tp.pata/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_pataig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="PATA Singapore TP Student Chapter">
                     </image>
                 </a>
             </td>
