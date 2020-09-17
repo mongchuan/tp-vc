@@ -23,14 +23,14 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Medical Biotechnology</h4>
                 <a href="https://www.instagram.com/tpmbig/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_mbig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Medical Biotechnology Interest Group">
                     </image>
                 </a>
             </td>
+        </tr>
+        <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Totally Pharmaceutical Science</h4>
                 <a href="https://www.instagram.com/totallyphs/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_psig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Totally Pharmaceutical Science">
