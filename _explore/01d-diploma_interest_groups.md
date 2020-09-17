@@ -6,10 +6,12 @@ third_nav_title: Be Involved
 
 ---
 
+## School of Business
+
 <div>
     <table>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Accounting & Finance Interest Group</h4>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Accounting & Finance</h4>
                 <a href="https://www.instagram.com/tp.anf/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_afig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Accounting & Finance Interest Group">
                     </image>
@@ -21,7 +23,7 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Business Interest Group</h4>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Business</h4>
                 <a href="https://www.instagram.com/tp_bus/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_big.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Business Interest Group">
                     </image>
@@ -29,21 +31,21 @@ third_nav_title: Be Involved
             </td>
         </tr>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Adventure Club</h4>
-                <a href="{{site.baseurl}}/p10/ac/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_ac.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Adventure Club">
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Communication & Media Management</h4>
+                <a href="https://www.instagram.com/team_cmm/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_cmmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Communication & Media Management">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Adventure Club</h4>
-                <a href="{{site.baseurl}}/p10/ac/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_ac.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Adventure Club">
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Culinary & Catering Management</h4>
+                <a href="https://www.instagram.com/tp_ccm/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_ccmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Culinary & Catering Management">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Applied Science Studies Club</h4>
-                <a href="{{site.baseurl}}/p10/ascsc/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club">
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Hospitality & Tourism Management</h4>
+                <a href="https://www.instagram.com/tphtm/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_htmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Hospitality & Tourism Management">
                     </image>
                 </a>
             </td>
