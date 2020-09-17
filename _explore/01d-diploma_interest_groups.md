@@ -255,21 +255,21 @@ third_nav_title: Be Involved
 <div>
     <table>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>ECDE</h4>
+                <a href="" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_echig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="ECDE Interest Group">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Phychology Studies</h4>
+                <a href="https://www.instagram.com/t.psig/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_psyig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Phychology Studies Interest Group">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Social Sciences in Gerontology</h4>
+                <a href="" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_ssgig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Social Sciences in Gerontology Interest Group">
                     </image>
                 </a>
             </td>
