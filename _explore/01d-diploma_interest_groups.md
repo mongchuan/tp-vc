@@ -174,75 +174,75 @@ third_nav_title: Be Involved
 <div>
     <table>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Airborne Group</h4>
+                <a href="https://www.instagram.com/aegairborne/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_aegig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Airborne Group (AEG)">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Ashrae Student Branch</h4>
+                <a href="https://www.instagram.com/tpgbs_ashrae/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_gbsig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Ashrae Student Branch (GBS)">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
-                    </image>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Bioengenes</h4>
+                <a href="https://www.instagram.com/tpbme/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_bmeig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Bioengenes Interest Group (BME)">
                     </image>
                 </a>
             </td>
         </tr>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Business Process & Systems Engineering</h4>
+                <a href="" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_bzeig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Business Process & Systems Engineering (BIZEN - BZE">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Blackbox</h4>
+                <a href="https://www.instagram.com/amsaviators/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_amsig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Blackbox (AMS)">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Computer Engineering Network</h4>
+                <a href="" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_centig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Computer Engineering Network (CENT)">
                     </image>
                 </a>
             </td>
         </tr>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>E2Matrix</h4>
+                <a href="" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_cepig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="E2Matrix (CEP/ELN)">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Energy Oasis</h4>
+                <a href="" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_cerig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Energy Oasis (CER)">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>G-Force</h4>
+                <a href="https://www.instagram.com/gforceael/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_aelig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="G-Force (AEL)">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Integrated Facility Management</h4>
+                <a href="https://www.instagram.com/ifmclub/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_ifmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Integrated Facility Management (IFM)">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Society of Manufacturing Engineers Club</h4>
+                <a href="" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_mtnig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Society of Manufacturing Engineers Club (SME - MTN">
                     </image>
                 </a>
             </td>
