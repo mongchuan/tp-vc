@@ -6,5 +6,5 @@ third_nav_title: Be Travelling
 
 ---
 <div class="bp-youtube">
-    <iframe width="800" height="450" src="https://tpadventureclub.wixsite.com/tpac/adventuring-with-you">
+    <iframe width="1080" height="540" src="https://tpadventureclub.wixsite.com/tpac/adventuring-with-you">
 </div>
