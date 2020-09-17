@@ -6,6 +6,47 @@ third_nav_title: Be Involved
 
 ---
 
+## School of Applied Science
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
 ## School of Business
 
 <div>
@@ -100,6 +141,176 @@ third_nav_title: Be Involved
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>PATA Singapore TP Student Chapter</h4>
                 <a href="https://www.instagram.com/tp.pata/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_pataig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="PATA Singapore TP Student Chapter">
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+## School of Design
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+## School of Engineering
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+## School of Humanities & Social Sciences
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+## School of Informatics & IT
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>template</h4>
+                <a href="https://www.instagram.com/template/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
                     </image>
                 </a>
             </td>
