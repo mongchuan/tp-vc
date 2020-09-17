@@ -11,35 +11,35 @@ third_nav_title: Be Involved
 <div>
     <table>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Totally Pharmaceutical Science</h4>
-                <a href="https://www.instagram.com/totallyphs/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_psig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Totally Pharmaceutical Science">
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Medical Biotechnology</h4>
-                <a href="https://www.instagram.com/tpmbig/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_mbig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Medical Biotechnology Interest Group">
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Veterinary Wildlife Conservation</h4>
-                <a href="https://www.instagram.com/tpvwc/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_vwcig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Veterinary Wildlife Conservation Interest Group">
-                    </image>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Chemical Engineering</h4>
+            <td style="width:33%; vertical-align:bottom; border:none">><h4>Chemical Engineering</h4>
                 <a href="https://www.instagram.com/ascniche/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_ceig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chemical Engineering Interest Group">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Food</h4>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Food</h4>
                 <a href="https://www.instagram.com/ascfig/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_fig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Food Interest Group">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Medical Biotechnology</h4>
+                <a href="https://www.instagram.com/tpmbig/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_mbig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Medical Biotechnology Interest Group">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Totally Pharmaceutical Science</h4>
+                <a href="https://www.instagram.com/totallyphs/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_psig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Totally Pharmaceutical Science">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Veterinary Wildlife Conservation</h4>
+                <a href="https://www.instagram.com/tpvwc/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_vwcig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Veterinary Wildlife Conservation Interest Group">
                     </image>
                 </a>
             </td>
@@ -153,15 +153,15 @@ third_nav_title: Be Involved
 <div>
     <table>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Digital Film & Television</h4>
+                <a href="https://www.instagram.com/digitalfilmtv/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_dftig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Film & Television Interest Group">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>template</h4>
-                <a href="https://www.instagram.com/template/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_template.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="template">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Product & Industrial Design</h4>
+                <a href="" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_pidig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Product & Industrial Design Interest Group">
                     </image>
                 </a>
             </td>
