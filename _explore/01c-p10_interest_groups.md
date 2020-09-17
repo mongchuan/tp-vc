@@ -89,8 +89,7 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
 <br>
 
 ## Interest Groups
-<!-- Different coding style cause name too long
--->
+
 <div>
     <table>
         <tr>
