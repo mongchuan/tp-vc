@@ -6,12 +6,12 @@ third_nav_title: Be Involved
 
 ---
 
-<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofasc"></a>School of ASC</button>
-<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofbus"></a>School of BUS</button>
-<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofdes"></a>School of DES</button>
-<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofeng"></a>School of ENG</button>
-<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofhss"></a>School of HSS</button>
-<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofiit"></a>School of IIT</button>
+<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofasc">School of ASC</a></button>
+<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofbus">School of BUS</a></button>
+<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofdes">School of DES</a></button>
+<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofeng">School of ENG</a></button>
+<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofhss">School of HSS</a></button>
+<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofiit">School of IIT</a></button>
 
 
 ## <a id="schoolofasc"></a>School of Applied Science
