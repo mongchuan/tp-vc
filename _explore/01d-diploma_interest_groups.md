@@ -5,14 +5,14 @@ permalink: /be-involved/diploma_interest_groups
 third_nav_title: Be Involved
 
 ---
-<h5>
+
 <button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofasc"></a>School of ASC</button>
 <button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofbus"></a>School of BUS</button>
 <button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofdes"></a>School of DES</button>
 <button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofeng"></a>School of ENG</button>
 <button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofhss"></a>School of HSS</button>
 <button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofiit"></a>School of IIT</button>
-</h5>
+
 
 ## <a id="schoolofasc"></a>School of Applied Science
 
