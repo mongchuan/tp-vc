@@ -1,17 +1,24 @@
 ---
 layout: page
 title: Diploma Interest Groups
-permalink: /be-involved/diploma_interest_groups/
+permalink: /be-involved/diploma_interest_groups
 third_nav_title: Be Involved
 
 ---
 
-## School of Applied Science
+<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofasc">School of ASC
+<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofbus">School of BUS
+<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofdes">School of DES
+<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofeng">School of ENG
+<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofhss">School of HSS
+<button><a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofiit">School of IIT
+
+## <a id="schoolofasc"></a>School of Applied Science
 
 <div>
     <table>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none">><h4>Chemical Engineering</h4>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Chemical Engineering</h4>
                 <a href="https://www.instagram.com/ascniche/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_ceig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chemical Engineering Interest Group">
                     </image>
@@ -49,7 +56,7 @@ third_nav_title: Be Involved
 
 <br>
 
-## School of Business
+## <a id="schoolofbus"></a>School of Business
 
 <div>
     <table>
@@ -152,7 +159,7 @@ third_nav_title: Be Involved
 
 <br>
 
-## School of Design
+## <a id="schoolofdes"></a>School of Design
 
 <div>
     <table>
@@ -177,7 +184,7 @@ third_nav_title: Be Involved
 
 <br>
 
-## School of Engineering
+## <a id="schoolofeng"></a>School of Engineering
 
 <div>
     <table>
@@ -260,7 +267,7 @@ third_nav_title: Be Involved
 
 <br>
 
-## School of Humanities & Social Sciences
+## <a id="schoolofhss"></a>School of Humanities & Social Sciences
 
 <div>
     <table>
@@ -289,7 +296,7 @@ third_nav_title: Be Involved
 
 <br>
 
-## School of Informatics & IT
+## <a id="schoolofiit"></a>School of Informatics & IT
 
 <div>
     <table>
