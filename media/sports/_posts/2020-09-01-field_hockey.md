@@ -25,3 +25,31 @@ permalink: /sports/field_hockey/
         </td>
     </tr>
 </table>
+
+#### Latest Happenings
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAFyWQKBC9t/">
+                <image src="{{site.baseurl}}/images/CCA-Hockey_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <h6 style="margin-top:0%">Join the TP Hockey Family!</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAC9ckYBALT/">
+                <image src="{{site.baseurl}}/images/CCA-Hockey_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <h6 style="margin-top:0%">How to sign up for TP Hockey?</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B-rH8bDnmuC/">
+                <image src="{{site.baseurl}}/images/CCA-Hockey_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <h6 style="margin-top:0%">Hockey featured in TP's Home of Champions campaign</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
