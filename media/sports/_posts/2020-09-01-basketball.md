@@ -19,8 +19,35 @@ permalink: /sports/basketball/
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:joncsw@tp.edu.sg">Mr Jonathan Chua</a><br>
                 <br>
-                CCA <a href="https://www.instagram.com/temasekpoly_basketball">Instagram</a>
             </p>
+        </td>
+    </tr>
+</table>
+
+#### Latest Happenings
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="hhttps://www.instagram.com/p/CAKofKNngVr/">
+                <image src="{{site.baseurl}}/images/CCA-Basketball_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Basketball">
+                <h6 style="margin-top:0%">TP Basketball Achievements</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAIvCX6nLGB/">
+                <image src="{{site.baseurl}}/images/CCA-Basketball_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Basketball">
+                <h6 style="margin-top:0%">TP Basketball overseas training</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B_1tWZvHXb1/">
+                <image src="{{site.baseurl}}/images/CCA-Basketball_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Basketball">
+                <h6 style="margin-top:0%">Introduction to the Coaches</h6>    
+                </image>
+            </a>
         </td>
     </tr>
 </table>
