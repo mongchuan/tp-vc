@@ -34,6 +34,5 @@ permalink: /interest_groups/business_ambassadors/
                 </image>
             </a>
         </td>
-        <td style="width:33%"><br>
     </tr>
 </table>
