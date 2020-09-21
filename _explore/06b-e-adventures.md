@@ -5,6 +5,7 @@ permalink: /be-travelling/e-adventures/
 third_nav_title: Be Travelling
 
 ---
+Check out the weekly episodes of the Adventuring With You series that takes you on an adventurous journey!
 
 <div>
     <table>
