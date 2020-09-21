@@ -30,23 +30,23 @@ permalink: /sports/badminton/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CACM9-gH593/">
-                <image src="{{site.baseurl}}/images/CCA-10-pin_bowling_IG.png" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
-                <h6 style="margin-top:0%">Join TP Bowling!</h6>
+            <a href="https://www.instagram.com/p/CAxWibTnnXo/">
+                <image src="{{site.baseurl}}/images/CCA-Badminton_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Badminton">
+                <h6 style="margin-top:0%">Maintaining fitness during circuit breaker</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B_6_N7QHG_c/">
-                <image src="{{site.baseurl}}/images/CCA-10-pin_bowling_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
-                <h6 style="margin-top:0%">Introduction video to TP Bowling</h6>
+            <a href="https://www.instagram.com/p/CAC5H18DwbD/">
+                <image src="{{site.baseurl}}/images/CCA-Badminton_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Badminton">
+                <h6 style="margin-top:0%">Join TP Badminton!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CAAmYXfDPcR/">
-                <image src="{{site.baseurl}}/images/CCA-10-pin_bowling_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
-                <h6 style="margin-top:0%">IVP Bowling 2020 Results</h6>    
+                <image src="{{site.baseurl}}/images/CCA-Badminton_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Badminton">
+                <h6 style="margin-top:0%">Introduction to TP Badminton</h6>    
                 </image>
             </a>
         </td>
