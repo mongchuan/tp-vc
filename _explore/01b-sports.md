@@ -13,7 +13,7 @@ Over many years of discipline, diligence and doggedness, many of Temasek Polytec
         <tr>
             <td style="max-width:49%; vertical-align:bottom; border:none"><br><h4>10 Pin Bowling</h4>
                 <a href="{{site.baseurl}}/sports/10_pin_bowling/">
-                    <image src="{{site.baseurl}}/images/CCA_10_pin_bowling.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
+                    <image src="{{site.baseurl}}/images/CCA_10-pin-bowling.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
                     </image>
                 </a>
             </td>
